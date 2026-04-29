@@ -11,7 +11,5 @@ public class SystemMain03 {
 		member1.showMember();
 		System.out.println("\n---SHOW DATA(Miura)---");
 		member2.showMember();
-
 	}
-
 }

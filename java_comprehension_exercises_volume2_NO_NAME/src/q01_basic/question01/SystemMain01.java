@@ -37,7 +37,6 @@ public class SystemMain01 {
 		System.out.println("---SHOW DATA---");
 		member1.showMember();
 		member2.showMember();
-
 	}
 
 }

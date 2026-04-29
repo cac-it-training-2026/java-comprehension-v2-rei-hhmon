@@ -56,5 +56,4 @@ class Member {
 		System.out.println("rank：" + rank);
 		System.out.println("*******************");
 	}
-
 }
