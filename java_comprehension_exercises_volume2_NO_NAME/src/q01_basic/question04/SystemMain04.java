@@ -15,7 +15,5 @@ public class SystemMain04 {
 
 		System.out.println("---SHOW ALL MEMBERS---");
 		MemberManager.showAllMembers(members);
-
 	}
-
 }

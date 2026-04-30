@@ -14,4 +14,5 @@ class MemberManager {
 			memberArray.showMember();
 		}
 	}
+
 }

@@ -19,7 +19,5 @@ public class SystemMain05 {
 		for (AbstMember memberArray : members) {
 			memberArray.buyItem();
 		}
-
 	}
-
 }
