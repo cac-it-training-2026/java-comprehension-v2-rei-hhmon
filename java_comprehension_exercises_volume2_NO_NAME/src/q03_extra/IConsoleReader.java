@@ -20,7 +20,7 @@ interface IConsoleReader {
 	 * @throws SystemErrorException IOExceptionをキャッチして送出する
 	 * @throws IllegalInputException isValidメソッドの結果がfalseの場合に送出する
 	 */
-	public default Object input() throws SystemErrorException, IllegalInputException {
+	public default Object input() {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String input = null;
 		try {
